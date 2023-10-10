@@ -19,6 +19,7 @@ return {
             "tsx",
             "typescript",
             "css",
+            "bash",
         },
         highlight = {
             enable = true,
